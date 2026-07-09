@@ -21,7 +21,6 @@
           <p>
             <img src="https://i.pinimg.com/originals/0e/1f/3c/0e1f3c5d8b9a2b6e4f5a7b8c9d6e7f8a.gif" style="width: 100%; height: auto; object-fit: cover;">
           </p>
-
         </td>
     </tr>
   </table>
