@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![banner](https://i.pinimg.com/736x/42/b7/38/42b7388532392866e8ac4ca7d6a4251d.jpg)
+
 <!--
 **lapizzepa/lapizzepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
