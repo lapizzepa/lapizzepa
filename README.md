@@ -21,10 +21,19 @@
 </div>
 
 <div>
-    <h2>✎ Connect with me - ,,</h2>
+    <h2 align="center">✎ Connect with me - ,,</h2>
     <div align="center">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      </a>
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=discord" />    
+        </a>
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=github" />    
+        </a>   
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=spotify" />    
+        </a>     
     </div>
 </div>
