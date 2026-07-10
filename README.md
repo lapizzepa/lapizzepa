@@ -27,7 +27,7 @@
             <img src="https://skillicons.dev/icons?i=python,cpp,react,js,html,css" />
         </a>
     </p>
-    <p>Learning by building, breaking things and figuring out how to fix them. These are the technologies I'm currently focusing on</p>
+    <p align="center">➜ Learning by breaking things and figuring out how to fix them. These are the technologies I'm currently focusing on. 𐔌՞꜆.  ̫.꜀՞𐦯</p>
 </div>
 
 <div align="center">
