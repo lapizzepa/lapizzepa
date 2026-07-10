@@ -23,17 +23,8 @@
 <div>
     <h2>✎ Connect with me - ,,</h2>
     <div align="center">
-      <a href="https://linkedin.com/in/lisardo-sobrado-morales-195a98357">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
       </a>
-      <a href="https://github.com/lisardowo">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
-      </a>
-      <a href="https://discord.com/users/pp3nguin">
-        <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50" />
-      </a>
-      <a href="https://www.instagram.com/lov3d.r/">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" />
-      </a>
-</div>
+    </div>
 </div>
