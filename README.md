@@ -6,9 +6,9 @@
 
 <div>
     <h2 class="About_me" align="center">᪥ Hey there! I'm Lari   (´• ω •`)ﾉ</h2>
-    <table style="float: center; padding: 15px; border: none;">
+    <table style="float: center; border: 0;">
         <tr>
-            <th width="60%" style="text-align: justify;">
+            <th width="60%" style="text-align: justify; padding: 30px;">
                  ੈ✩‧₊˚ I'm a Software Engineering student currently learning full-stack and mobile development. I use this GitHub to document my learning, experiment with new technologies, and build projects as I improve my skills.
             </th>
             <th width="40%">
@@ -20,8 +20,8 @@
 
 <div>
     <h2>✎ Connect with me - ,,</h2>
-    <ul style="list-style-type: none; display: flex; justify-content: center; padding: 0;">
-        <li><i class="fa-brands fa-linkedin"></i></li>
+    <ul style="position: relative; list-style: none; display: flex; justify-content: space-between;">
+        <li> <i class="fa-brands fa-linkedin"></i></li>
         <li><i class="fa-brands fa-discord"></i></li>
         <li><i class="fa-brands fa-github"></i></li>
     </ul>
