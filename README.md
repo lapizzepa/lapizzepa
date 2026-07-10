@@ -12,7 +12,7 @@
                 I'm a Software Engineering student currently learning full-stack and mobile development. I use this GitHub to document my learning, experiment with new technologies, and build projects as I improve my skills.
             </th>
             <th width="40%">
-                <iframe src="https://assets.pinterest.com/ext/embed.html?id=20407004557677394" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+                <div class="tenor-gif-embed" data-postid="18306447" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/jolteon-gif-18306447">Jolteon Sticker</a>from <a href="https://tenor.com/search/jolteon-stickers">Jolteon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
             </th>
         </tr>
     </table>
