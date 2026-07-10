@@ -12,7 +12,7 @@
                 I'm a Software Engineering student currently learning full-stack and mobile development. I use this GitHub to document my learning, experiment with new technologies, and build projects as I improve my skills.
             </th>
             <th width="40%">
-                <img src="https://tenor.com/view/jolteon-gif-18306447">
+                <img src="[https://tenor.com/view/jolteon-gif-18306447](https://media.tenor.com/wE4BAQWJGXkAAAAi/jolteon.gif"](https://media.tenor.com/wE4BAQWJGXkAAAAi/jolteon.gif)>
             </th>
         </tr>
     </table>
