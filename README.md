@@ -6,7 +6,7 @@
 
 <div>
     <h2 class="About_me" align="center">᪥ Hey there! I'm Lari   (´• ω •`)ﾉ</h2>
-    <table>
+    <table style="float: center;">
         <tr>
             <th width="60%">
                 I'm a Software Engineering student currently learning full-stack and mobile development. I use this GitHub to document my learning, experiment with new technologies, and build projects as I improve my skills.
@@ -17,7 +17,6 @@
         </tr>
     </table>
 </div>
-
 
 
 
