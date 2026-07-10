@@ -22,15 +22,18 @@
 
 <div>
     <h2>✎ Connect with me - ,,</h2>
-    <div style="display: flex; gap: 20px;">
-        <a href="https://www.linkedin.com/in/lari/" target="_blank">
-            <img src="https://simpleicons.org/v4/linkedin.svg?color=9370DB" width="30" height="30" alt="LinkedIn">
-        </a>
-        <a href="https://discordapp.com/users/123456789" target="_blank">
-            <img src="https://simpleicons.org/v4/discord.svg?color=7289DA" width="30" height="30" alt="Discord">
-        </a>
-        <a href="https://github.com/lapizzepa" target="_blank">
-            <img src="https://simpleicons.org/v4/github.svg?color=FFFFFF" width="30" height="30" alt="GitHub">
-        </a>
-    </div>
+    <div align="center">
+      <a href="https://linkedin.com/in/lisardo-sobrado-morales-195a98357">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
+      </a>
+      <a href="https://github.com/lisardowo">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+      </a>
+      <a href="https://discord.com/users/pp3nguin">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="50" />
+      </a>
+      <a href="https://www.instagram.com/lov3d.r/">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" />
+      </a>
+</div>
 </div>
