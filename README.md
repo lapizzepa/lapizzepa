@@ -21,6 +21,20 @@
 </div>
 
 <div>
+    <h2 align="center">⚚ Currently learning 〣( ºΔº )〣</h2>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,cpp,react,js,html,css" />
+        </a>
+    </p>
+    <p>Learning by building, breaking things and figuring out how to fix them. These are the technologies I'm currently focusing on</p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/lapizzepa/lapizzepa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div>
     <h2 align="center">✎ Connect with me - ,,</h2>
     <div align="center">
         <a href="#">
@@ -37,3 +51,5 @@
         </a>     
     </div>
 </div>
+
+
